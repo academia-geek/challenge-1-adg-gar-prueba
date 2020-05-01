@@ -11,7 +11,7 @@ boton.addEventListener('click',(e)=>{
     eml.style.border='2px solid hsl(0, 93%, 68%, 0.8)';
     eml.style.backgroundImage='url("./images/icon-error.svg")';
     eml.style.backgroundRepeat='no-repeat';
-    eml.style.backgroundPositionX="300px";
+    eml.style.backgroundPositionX="280px";
     eml.style.backgroundPositionY="6px";
 
    }
